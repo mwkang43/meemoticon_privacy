@@ -40,6 +40,7 @@ Avaticon 앱의 계정과 데이터는 **앱 안에서 직접 삭제**하거나,
 | --- | --- | --- |
 | 보상 거래 기록 (거래 ID, 금액, 시각) | 거래 후 1년 | 부정 지급 방지 및 문의 대응 |
 | 서버 접속·오류 로그 | 수집 후 30일 | 서비스 운영·보안 점검 |
+| 신고 기록 (신고 사유·문구) | 접수 후 1년 | 검토 및 재발 방지 |
 
 이미 텔레그램에 추가된 스티커팩은 텔레그램 쪽에 남아 있을 수 있으며, 텔레그램 앱에서 직접 삭제할 수 있습니다. 광고·오퍼월 업체가 수집한 정보는 각 업체의 개인정보처리방침에 따릅니다.
 
@@ -85,6 +86,7 @@ After verifying your identity, we will delete your data **within 30 days** and r
 | --- | --- | --- |
 | Reward transaction records (transaction ID, amount, time) | 1 year after the transaction | Fraud prevention and support |
 | Server access and error logs | 30 days after collection | Operation and security checks |
+| Reports (reason and text) | 1 year after submission | Review and preventing recurrence |
 
 Sticker packs already added to Telegram may remain there and can be removed in the Telegram app. Data collected by ad and offerwall partners is handled under each partner's privacy policy.
 
