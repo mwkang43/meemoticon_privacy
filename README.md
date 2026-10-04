@@ -8,7 +8,7 @@ Avaticon(이하 ‘앱’)은 사진으로 캐릭터와 이모티콘을 만드�
 
 이 방침은 앱이 어떤 정보를 왜 수집하고, 누구와 공유하며, 얼마나 보관하는지와 이용자가 행사할 수 있는 권리를 설명합니다.
 
-- 개인정보 처리자(운영자): [운영자 성명 또는 상호]
+- 개인정보 처리자(운영자): 강민우
 - 연락처: mwkang43@gmail.com
 - 적용 대상: Google Play에서 배포되는 Avaticon Android 앱과 앱이 사용하는 서버 기능
 
@@ -174,7 +174,7 @@ Avaticon(이하 ‘앱’)은 사진으로 캐릭터와 이모티콘을 만드�
 이 방침을 변경하면 시행 7일 전에(이용자에게 불리한 변경은 30일 전에) 앱 또는 이 페이지를 통해 알립니다.
 
 - 앱 이름: Avaticon
-- 개인정보 보호 책임자: [운영자 성명]
+- 개인정보 보호 책임자: [강민우]
 - 이메일: mwkang43@gmail.com
 - 최초 시행일: 2026년 9월 21일
 - 최종 개정일: 2026년 10월 4일
@@ -187,7 +187,7 @@ Avaticon(이하 ‘앱’)은 사진으로 캐릭터와 이모티콘을 만드�
 
 Avaticon (the “App”) creates characters and stickers from your photos and processes personal data in line with the EU General Data Protection Regulation (GDPR), the Korean Personal Information Protection Act and other applicable laws.
 
-- Controller: [Operator name or business name]
+- Controller: [Minwoo Kang]
 - Contact: mwkang43@gmail.com
 - Scope: the Avaticon Android app distributed on Google Play and its server functions
 
@@ -326,7 +326,7 @@ Our servers (Firebase) and AI and ad providers are mainly located in the United 
 We will announce changes to this policy in the App or on this page at least 7 days before they take effect (30 days for changes that reduce your rights).
 
 - App: Avaticon
-- Privacy contact: [Operator name]
+- Privacy contact: [Minwoo Kang]
 - Email: mwkang43@gmail.com
 - First effective date: 21 September 2026
 - Last updated: 4 October 2026
