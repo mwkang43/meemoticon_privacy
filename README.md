@@ -217,6 +217,7 @@ WhatsApp
 • 이메일: mwkang43@gmail.com
 • 최초 시행일: 2026년 9월 21일
 • 최종 개정일: 2026년 10월 4일
+
 English version
 1. Overview
 Avaticon (the “App”) creates characters and stickers from your photos and processes personal data in line with the EU General Data Protection Regulation (GDPR), the Korean Personal Information Protection Act and other applicable laws.
