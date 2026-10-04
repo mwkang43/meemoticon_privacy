@@ -8,7 +8,7 @@ Avaticon(이하 ‘앱’)은 사진으로 캐릭터와 이모티콘을 만드�
 
 이 방침은 앱이 어떤 정보를 왜 수집하고, 누구와 공유하며, 얼마나 보관하는지와 이용자가 행사할 수 있는 권리를 설명합니다.
 
-- 개인정보 처리자(운영자): [강민우]
+- 개인정보 처리자(운영자): [운영자 성명 또는 상호]
 - 연락처: mwkang43@gmail.com
 - 적용 대상: Google Play에서 배포되는 Avaticon Android 앱과 앱이 사용하는 서버 기능
 
@@ -28,6 +28,7 @@ Avaticon(이하 ‘앱’)은 사진으로 캐릭터와 이모티콘을 만드�
 | 텔레그램 연동 정보 (선택) | 텔레그램 사용자 ID | 텔레그램 연동 시 | 서버(Firebase) |
 | 자동 수집 정보 | 광고 ID, IP 주소, 기기 모델·OS 버전, 앱 이용 기록, 오류 기록 | 앱 이용 중 | 앱 서버 및 광고·오퍼월 업체 |
 | 동의 기록 | 맞춤형 광고 동의 여부(IAB TCF 표준 값) | 동의 화면 응답 시 | 기기 |
+| 신고 내용 (선택) | 신고 사유, 신고한 이모티콘·캐릭터의 문구, 첨부를 선택한 이미지 | 신고 시 | 서버(Firebase) |
 
 앱은 이용자의 외부 계정 비밀번호, 연락처 목록, 개인 대화 내용, 정밀 위치 정보를 수집하지 않습니다.
 
@@ -64,7 +65,7 @@ Avaticon(이하 ‘앱’)은 사진으로 캐릭터와 이모티콘을 만드�
 
 **타인과 자녀의 사진**: 다른 사람의 사진은 본인의 동의를 받은 경우에만 올려야 합니다. 만 13세 미만 자녀의 사진은 부모 또는 법정대리인이 직접 올리는 경우에만 사용할 수 있습니다.
 
-**부적절한 결과 신고**: AI가 부적절한 이미지를 만들었다면 앱 안의 신고 기능 또는 아래 문의처로 알려 주세요.
+**부적절한 결과 신고**: 이모티콘이나 캐릭터를 길게 누른 뒤 ‘부적절한 결과 신고’를 선택하거나 아래 문의처로 알려 주세요. 신고 내용은 유해한 결과를 줄이기 위한 검토에만 사용합니다.
 
 ## 5. 제3자 서비스와 처리 위탁
 
@@ -108,12 +109,12 @@ Avaticon(이하 ‘앱’)은 사진으로 캐릭터와 이모티콘을 만드�
 | 대상 | 미션 (Tapjoy) | 설문 (RapidoReach 등) | 광고 |
 | --- | --- | --- | --- |
 | 만 13세 미만 | 앱 이용 불가 | 앱 이용 불가 | 앱 이용 불가 |
-| 만 13~15세 | 이용 불가 | 이용 불가 | 청소년 등급 광고 |
+| 만 13~15세 | 이용 불가 | 이용 불가 | 청소년 등급, 비맞춤 광고 |
 | 만 16~17세 | 이용 가능 | 이용 불가 | 청소년 등급 광고 |
 | 만 18세 이상 | 이용 가능 | 이용 가능 | 모든 광고 (동의 시 맞춤형) |
 | 유럽 국가별 디지털 동의 연령 미만 | 이용 불가 | 이용 불가 | 비맞춤 광고만 |
 
-생년월은 기기에만 저장되며 서버로 전송되지 않습니다. 잘못 입력한 경우 코인 충전소의 ‘생년월 수정’에서 제한된 횟수 안에서 고칠 수 있습니다.
+만 16세 미만 이용자에게는 지역과 관계없이 맞춤형 광고를 제공하지 않습니다. 생년월은 기기에만 저장되며 서버로 전송되지 않습니다. 잘못 입력한 경우 코인 충전소의 ‘생년월 수정’에서 제한된 횟수 안에서 고칠 수 있습니다.
 
 앱은 만 13세 미만 아동의 개인정보를 알면서 수집하지 않습니다. 아동의 정보가 수집된 사실을 알게 되면 문의처로 알려 주세요. 확인 즉시 삭제합니다.
 
@@ -128,8 +129,9 @@ Avaticon(이하 ‘앱’)은 사진으로 캐릭터와 이모티콘을 만드�
 | 기기에 저장된 사진·생성물·생년월 | 앱 삭제 또는 앱 데이터 삭제 시까지 |
 | 광고·오퍼월 업체가 수집한 정보 | 각 업체의 개인정보처리방침에 따름 |
 | 서버 접속·오류 로그 (IP 주소 포함) | 수집 후 30일 (서비스 운영·보안 점검 목적) |
+| 신고 기록 | 접수 후 1년 (검토 및 재발 방지 목적) |
 
-**계정과 데이터 삭제 요청**: 아래 문의처 이메일로 앱에 표시된 계정 정보(구글 계정 이메일 또는 사용자 ID)와 함께 삭제를 요청하면, 본인 확인 후 30일 이내에 계정, 코인, 클라우드 백업 데이터를 삭제합니다. 법령상 보관 의무가 있는 정보는 해당 기간만 분리 보관합니다.
+**계정과 데이터 삭제 요청**: 앱의 코인 충전소 하단 ‘계정 삭제’에서 바로 삭제할 수 있으며, 계정·코인·클라우드 백업과 기기의 앱 데이터가 즉시 삭제됩니다. 앱을 사용할 수 없다면 [계정 삭제 요청 페이지](https://mwkang43.github.io/meemoticon_privacy/account-deletion.html) 또는 아래 문의처 이메일로 구글 계정 이메일과 함께 요청하면, 본인 확인 후 30일 이내에 삭제합니다. 법령상 보관 의무가 있는 정보는 해당 기간만 분리 보관합니다.
 
 계정을 삭제하면 보유한 코인과 클라우드 백업은 복구할 수 없습니다.
 
@@ -172,7 +174,7 @@ Avaticon(이하 ‘앱’)은 사진으로 캐릭터와 이모티콘을 만드�
 이 방침을 변경하면 시행 7일 전에(이용자에게 불리한 변경은 30일 전에) 앱 또는 이 페이지를 통해 알립니다.
 
 - 앱 이름: Avaticon
-- 개인정보 보호 책임자: [강민우]
+- 개인정보 보호 책임자: [운영자 성명]
 - 이메일: mwkang43@gmail.com
 - 최초 시행일: 2026년 9월 21일
 - 최종 개정일: 2026년 10월 4일
@@ -185,7 +187,7 @@ Avaticon(이하 ‘앱’)은 사진으로 캐릭터와 이모티콘을 만드�
 
 Avaticon (the “App”) creates characters and stickers from your photos and processes personal data in line with the EU General Data Protection Regulation (GDPR), the Korean Personal Information Protection Act and other applicable laws.
 
-- Controller: [Minwoo Kang]
+- Controller: [Operator name or business name]
 - Contact: mwkang43@gmail.com
 - Scope: the Avaticon Android app distributed on Google Play and its server functions
 
@@ -203,6 +205,7 @@ Avaticon (the “App”) creates characters and stickers from your photos and pr
 | Telegram link (optional) | Telegram user ID | When you link Telegram | Server (Firebase) |
 | Automatically collected | Advertising ID, IP address, device model, OS version, usage and error logs | While using the App | App servers and ad/offerwall partners |
 | Consent record | Your ad consent choices (IAB TCF standard values) | When you answer the consent form | Device |
+| Reports (optional) | Report reason, text of the reported sticker or character, image if you choose to attach it | When you report | Server (Firebase) |
 
 We do not collect passwords for other services, contacts, private messages or precise location. If you use the survey service (RapidoReach), your survey profile and answers are collected directly by that provider, not by the App.
 
@@ -235,7 +238,7 @@ How long each AI provider keeps request data follows that provider’s own polic
 
 **Photos of others and of children**: Only upload photos of other people with their permission. Photos of children under 13 may only be uploaded by their parent or legal guardian.
 
-**Reporting inappropriate results**: If the AI creates an inappropriate image, please report it through the in-app report option or the contact below.
+**Reporting inappropriate results**: Long-press a sticker or character and choose “Report inappropriate result”, or contact us below. Reports are used only to review and reduce harmful results.
 
 ### 5. Third-party services and processors
 
@@ -273,12 +276,12 @@ The App is intended for users aged 13 and older. Available features depend on th
 | User | Missions (Tapjoy) | Surveys (RapidoReach, etc.) | Ads |
 | --- | --- | --- | --- |
 | Under 13 | Cannot use the App | Cannot use the App | Cannot use the App |
-| 13–15 | Not available | Not available | Teen-rated ads |
+| 13–15 | Not available | Not available | Teen-rated, non-personalized ads |
 | 16–17 | Available | Not available | Teen-rated ads |
 | 18 and older | Available | Available | All ads (personalized with consent) |
 | Below the digital age of consent in your European country | Not available | Not available | Non-personalized ads only |
 
-Your birth year and month are stored only on your device. If you entered them by mistake, you can correct them a limited number of times under “Edit date of birth” in the Coin Station. We do not knowingly collect personal data from children under 13. If you believe we have, please contact us and we will delete it promptly.
+Users under 16 do not receive personalized ads, regardless of region. Your birth year and month are stored only on your device. If you entered them by mistake, you can correct them a limited number of times under “Edit date of birth” in the Coin Station. We do not knowingly collect personal data from children under 13. If you believe we have, please contact us and we will delete it promptly.
 
 ### 8. Retention and account deletion
 
@@ -289,8 +292,9 @@ Your birth year and month are stored only on your device. If you entered them by
 | Photos, creations and birth date on your device | Until you uninstall the App or clear its data |
 | Data collected by ad and offerwall partners | As set out in each partner’s privacy policy |
 | Server access and error logs (including IP address) | 30 days after collection, for operation and security checks |
+| Reports | 1 year after submission, for review and preventing recurrence |
 
-**Requesting deletion**: Email the contact below with your account details (Google account email or user ID shown in the App). After verifying your identity, we will delete your account, coins and cloud backup within 30 days. Data we must keep by law is stored separately only for the required period. Deleted coins and backups cannot be restored.
+**Requesting deletion**: Delete your account right away under “Delete account” at the bottom of the Coin Station; your account, coins, cloud backup and app data on the device are deleted immediately. If you cannot use the App, use the [account deletion request page](https://mwkang43.github.io/meemoticon_privacy/account-deletion.html) or email the contact below with your Google account email, and we will delete your data within 30 days after verifying your identity. Data we must keep by law is stored separately only for the required period. Deleted coins and backups cannot be restored.
 
 ### 9. Your rights
 
@@ -322,7 +326,7 @@ Our servers (Firebase) and AI and ad providers are mainly located in the United 
 We will announce changes to this policy in the App or on this page at least 7 days before they take effect (30 days for changes that reduce your rights).
 
 - App: Avaticon
-- Privacy contact: [Minwoo Kang]
+- Privacy contact: [Operator name]
 - Email: mwkang43@gmail.com
 - First effective date: 21 September 2026
 - Last updated: 4 October 2026
